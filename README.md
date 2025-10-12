@@ -20,7 +20,7 @@ Official AppImages do not support MUSL. Unofficial ArchImages do.
 
 ------------------------------------------------------------------------
 
-## Install and update them all with ease
+## Install and update it with ease
 
 ### *"*AM*" Application Manager* 
 #### *Package manager, database & solutions for all AppImages and portable apps for GNU/Linux!*
