@@ -1,7 +1,8 @@
 # Inkscape-appimage
-Unofficial Archimage of LibreOffice, without libfuse2 dependency and full support for AppImageUpdate tools.
+Unofficial Archimage of Inkscape, without libfuse2 dependency and full support for AppImageUpdate tools.
 
 --------------------------------------------------
+
 ### NOTE: This wrapper is not verified by, affiliated with, or supported by Inkscape.
 
 --------------------------------------------------
