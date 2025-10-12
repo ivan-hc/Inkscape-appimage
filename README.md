@@ -12,7 +12,7 @@ The official AppImages depend on the old and obsolete FUSE2
 
 The main domain [inkscape.org](https://inkscape.org/) is often slow and not reachable. This last aspect in particular makes installation and updating via my AM/AppMan package manager problematic.
 
-The official AppImages are also not compatible with and AppImageUpdate specifications.
+The official AppImages are also not compatible with AppImageUpdate specifications.
 
 Unofficial ArchImages solves the above problems, waiting for them to be solved upstream.
 
